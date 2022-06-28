@@ -1,5 +1,6 @@
 # Meag-SSI-fellowship
 A place to store any work related to my SSI Fellowship (https://www.software.ac.uk)
 
-### Talks about the fellowship
-- Lightning Talk at [Collaborations Workshop 2022 (CW22)](https://software.ac.uk/cw22), [Measuring User Outcomes in Research Software](https://ssi-cw.figshare.com/articles/presentation/Measuring_User_Outcomes_in_Research_Software/19469855)
+### Presentations about the fellowship
+- Doherty, Meag (2022): Measuring User Outcomes in Research Software. Software Sustainability Institute: Collaborations Workshop. Presentation. https://doi.org/10.6084/m9.figshare.19469855.v1 
+- Doherty, Meag (2022): 2022 SSI Fellowship Application: Measuring User Outcomes (UX) in Research Software. figshare. Presentation. https://doi.org/10.6084/m9.figshare.20164511.v2 
