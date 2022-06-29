@@ -15,3 +15,4 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 ### Projects to explore (find out who is doing customer experience/user experience work on these projects)
 -  Center for Expanded Data Annotation and Retrieval (CEDAR) 
 -  NIH BD2K biomedical and healthCAre Data Discovery Index Ecosystem (bioCADDIE) 
+-  UK Health Data Research Alliance
