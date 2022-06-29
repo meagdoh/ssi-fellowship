@@ -9,3 +9,4 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://ukhealthdata.org/wp-content/uploads/2020/07/200723-Alliance-Board_Paper-E_TRE-Green-Paper.pdf
 - https://www.lib.ncsu.edu/measuring-research-impact/your-impact
 - https://www.performance.gov/cx/resources/
+- https://www.nature.com/articles/sdata201618
