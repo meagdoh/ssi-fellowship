@@ -11,6 +11,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.performance.gov/cx/resources/
 - https://www.nature.com/articles/sdata201618
 - https://dataverse.harvard.edu/
+- https://twitter.com/HeidiBaya/status/1542432450252619782
 
 ### Projects to explore (find out who is doing customer experience/user experience work on these projects)
 -  Center for Expanded Data Annotation and Retrieval (CEDAR) 
