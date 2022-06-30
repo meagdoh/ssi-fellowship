@@ -14,6 +14,10 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://twitter.com/HeidiBaya/status/1542432450252619782
 - https://content.iospress.com/articles/data-science/ds190026
 - https://arxiv.org/abs/1908.05986
+- https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software
+- https://lib.asu.edu/news/research/fair-use-code
+- https://www.fairsfair.eu/sites/default/files/FAIR%20%2B%20software.pdf
+- 
 
 ### Projects to explore (find out who is doing customer experience/user experience work on these projects)
 -  Center for Expanded Data Annotation and Retrieval (CEDAR) 
