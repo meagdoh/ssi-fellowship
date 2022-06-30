@@ -23,4 +23,4 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 -  Center for Expanded Data Annotation and Retrieval (CEDAR) 
 -  NIH BD2K biomedical and healthCAre Data Discovery Index Ecosystem (bioCADDIE) 
 -  UK Health Data Research Alliance
--  (Data Science for Health Equity)[https://www.datascienceforhealthequity.com/get-involved]  
+-  [Data Science for Health Equity](https://www.datascienceforhealthequity.com/get-involved)
