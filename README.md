@@ -17,6 +17,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software
 - https://lib.asu.edu/news/research/fair-use-code
 - https://www.fairsfair.eu/sites/default/files/FAIR%20%2B%20software.pdf
+- https://github.com/BrainonSilicon/Collaborations/pull/6#event-6979970858
 - 
 
 ### Projects to explore (find out who is doing customer experience/user experience work on these projects)
@@ -24,3 +25,4 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 -  NIH BD2K biomedical and healthCAre Data Discovery Index Ecosystem (bioCADDIE) 
 -  UK Health Data Research Alliance
 -  [Data Science for Health Equity](https://www.datascienceforhealthequity.com/get-involved)
+- [AI for multiple long-term conditions: Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)
