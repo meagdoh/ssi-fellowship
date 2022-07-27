@@ -18,7 +18,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://lib.asu.edu/news/research/fair-use-code
 - https://www.fairsfair.eu/sites/default/files/FAIR%20%2B%20software.pdf
 - https://github.com/BrainonSilicon/Collaborations/pull/6#event-6979970858
-- 
+- https://www.youtube.com/watch?v=sRBR6vnKYiU
 
 ### Projects to explore (find out who is doing customer experience/user experience work on these projects)
 -  Center for Expanded Data Annotation and Retrieval (CEDAR) 
