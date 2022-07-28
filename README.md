@@ -19,6 +19,11 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.fairsfair.eu/sites/default/files/FAIR%20%2B%20software.pdf
 - https://github.com/BrainonSilicon/Collaborations/pull/6#event-6979970858
 - https://www.youtube.com/watch?v=sRBR6vnKYiU
+#### Ten Simple Rules examples
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005265
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009663
+- https://www.oreilly.com/content/four-tenets-ux-strategy/
+
 
 ### Projects to explore (find out who is doing customer experience/user experience work on these projects)
 -  Center for Expanded Data Annotation and Retrieval (CEDAR) 
