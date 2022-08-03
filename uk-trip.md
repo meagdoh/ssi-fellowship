@@ -3,8 +3,9 @@
 
 #### Trip Goals
 - Meet RSE leaders who are responsible for the customer experience of research software, and find out what barriers they face and goals they have. I am still wondering, _is there anyone with the title 'Research Software Designer (RSD)'_
-- Share what's working and lessons learned from measuring the customer experience at _All of Us__ 
-- Gauge interest in a CoP focused on customer experience in Research Software.  
+- Share what's working and lessons learned from measuring the customer experience at _All of Us_
+- Gauge interest in a CoP focused on customer experience in Research Software
+- Share how 'Improving the Researcher Experience' has become a key strategy for the _All of Us_ Scientific Strategy
 
 
 #### Talks and Events
