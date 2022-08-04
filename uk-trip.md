@@ -17,7 +17,11 @@
 - .
 
 ### SSI Deliverables
+#### Required
 - Blog post on attending RSECon2022
 - Blog post on plans and progress on establishing a CoP 
 - Blog post on Turing Institute Talk (in collab with Sophia B)
 - Blog post on the UX in research software landscape and short profiles of people doing UX in research software
+#### Additional
+- Paper on 10 simple rules for bringing UX into Research Software
+- Position paper on Research Software Design (RSD) ad a parallel concept to Research Software Engineer (RSE) 
