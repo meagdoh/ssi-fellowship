@@ -36,3 +36,4 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 -  UK Health Data Research Alliance
 -  [Data Science for Health Equity](https://www.datascienceforhealthequity.com/get-involved)
 - [AI for multiple long-term conditions: Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)
+- Workflow group at Turing
