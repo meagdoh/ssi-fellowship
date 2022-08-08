@@ -11,6 +11,7 @@
 #### Talks and Events
 - September 6-8, RSECon22
 - September 13, Open Talks Session at Turing Institute, Topic: Patient and public involvement and engagement (PPIE)
+- September 16, Panel at Turing
 - TBD, Talk at Imperial College
 - .
 - .
