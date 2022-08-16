@@ -21,6 +21,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.youtube.com/watch?v=sRBR6vnKYiU
 - https://www.nature.com/articles/ng.2972
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7802070/
+- https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
