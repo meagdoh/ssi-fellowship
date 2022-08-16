@@ -20,6 +20,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://github.com/BrainonSilicon/Collaborations/pull/6#event-6979970858
 - https://www.youtube.com/watch?v=sRBR6vnKYiU
 - https://www.nature.com/articles/ng.2972
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7802070/
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
