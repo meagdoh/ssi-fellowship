@@ -24,7 +24,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design
 - https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-five-trademarks-of-agile-organizations
 - http://www.disambiguity.com/there-is-no-ux/
-- http://www.disambiguity.com/there-is-no-ux/
+-https://www.ebi.ac.uk/sites/ebi.ac.uk/files/content.ebi.ac.uk/materials/sme-forum/2018/jo_mills_wgc_-_innovation_ecosystem_-_november_2018.pdf
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
