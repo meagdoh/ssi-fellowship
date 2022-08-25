@@ -36,3 +36,5 @@ The *All of Us* Research Program is inviting one million or more people across t
     - Find your allies
     - Show, don’t tell
     - Start today -- who is it for, and why is it good? (David Fore) / double down on the why / talk to users, could be anyone
+- Acknowledgements
+    - Leslie Westendorf
