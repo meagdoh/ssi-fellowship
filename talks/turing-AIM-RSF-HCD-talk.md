@@ -36,5 +36,7 @@ The *All of Us* Research Program is inviting one million or more people across t
     - Find your allies
     - Show, don’t tell
     - Start today -- who is it for, and why is it good? (David Fore) / double down on the why / talk to users, could be anyone
+- Closing
+-  Quote about solving user problems as the only metric. We are service professionals
 - Acknowledgements
     - Leslie Westendorf
