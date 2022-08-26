@@ -27,6 +27,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 -https://www.ebi.ac.uk/sites/ebi.ac.uk/files/content.ebi.ac.uk/materials/sme-forum/2018/jo_mills_wgc_-_innovation_ecosystem_-_november_2018.pdf
 - https://hbr.org/2007/11/a-leaders-framework-for-decision-making
 - https://bioinformatics.stackexchange.com/
+- https://www.sciencedirect.com/science/article/pii/S0740624X22000259
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
