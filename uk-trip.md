@@ -13,11 +13,7 @@
 
 
 #### Talks and Events
-- September 6-8, RSECon22
-- September 13, Open Talks Session at Turing Institute, Topic: Patient and public involvement and engagement (PPIE) process (colourful chart)
-- September 16th, 10am Panel Discussion, Topic: Share out what AoU research does, codesign, program direction
-- TBD, Talk at Imperial College
-- 
+[Talk Details](https://github.com/meagdoh/ssi-fellowship/tree/main/talks)
 
 
 ### SSI Deliverables
