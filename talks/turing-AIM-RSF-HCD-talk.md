@@ -1,3 +1,6 @@
+#### Event URL
+https://www.turing.ac.uk/events/rsf-seminar-series-everyone-has-say
+
 #### Host
 The Alan Turing Institute
 
