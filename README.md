@@ -30,6 +30,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.sciencedirect.com/science/article/pii/S0740624X22000259
 - https://www.nih.gov/AllofUs-research-program/pmi-cohort-program-announces-new-name-all-us-research-program
 - https://medium.com/integrating-research/enlisting-design-dreamers-to-explore-solutions-for-unaddressed-needs-in-research-repositories-7aa1c651485d
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539962/
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
