@@ -33,6 +33,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539962/
 - https://sfdora.org/read/
 - https://www.researchgate.net/publication/317591553_User_Experience_UX_of_a_Big_Data_Infrastructure
+- https://www.researchgate.net/figure/Usability-and-UX-relationship-framework_fig3_329209704
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
