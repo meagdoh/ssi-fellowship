@@ -24,7 +24,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design
 - https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/the-five-trademarks-of-agile-organizations
 - http://www.disambiguity.com/there-is-no-ux/
--https://www.ebi.ac.uk/sites/ebi.ac.uk/files/content.ebi.ac.uk/materials/sme-forum/2018/jo_mills_wgc_-_innovation_ecosystem_-_november_2018.pdf
+- https://www.ebi.ac.uk/sites/ebi.ac.uk/files/content.ebi.ac.uk/materials/sme-forum/2018/jo_mills_wgc_-_innovation_ecosystem_-_november_2018.pdf
 - https://hbr.org/2007/11/a-leaders-framework-for-decision-making
 - https://bioinformatics.stackexchange.com/
 - https://www.sciencedirect.com/science/article/pii/S0740624X22000259
@@ -32,6 +32,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://medium.com/integrating-research/enlisting-design-dreamers-to-explore-solutions-for-unaddressed-needs-in-research-repositories-7aa1c651485d
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4539962/
 - https://sfdora.org/read/
+- https://www.researchgate.net/publication/317591553_User_Experience_UX_of_a_Big_Data_Infrastructure
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
