@@ -35,6 +35,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.researchgate.net/publication/317591553_User_Experience_UX_of_a_Big_Data_Infrastructure
 - https://www.researchgate.net/figure/Usability-and-UX-relationship-framework_fig3_329209704
 - https://www.uxmatters.com/mt/archives/2014/08/ux-design-practice-verticals.php
+- https://www.ddw-online.com/ux-design-maximising-the-value-of-scientific-software-in-life-science-rd-1795-201708/
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
