@@ -43,7 +43,7 @@ There is a clear interest to break down silos in TRE development across UK (and 
   - 2FA on mobile device for people who want to keep work and non-work separate, there’s no alternative for them
 
 
-## What's Next?
+## Ideas for What's Next
 -  Draft an infrastructure looking visual to describe the customer experience workflows and services that exist across All of Us in order to show the embdedded features of UX throughout the research lifecycle
 -  Outline a research plan, in collaboration with the 'User Experience in TREs' breakout group members, for better understanding the common user problems that exist across TREs. Activities could include:
    -  Interview a handful of researchers who have used more than 1 TRE over the past year and find out more about their experiences
