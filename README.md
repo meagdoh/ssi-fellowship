@@ -37,6 +37,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://www.uxmatters.com/mt/archives/2014/08/ux-design-practice-verticals.php
 - https://www.ddw-online.com/ux-design-maximising-the-value-of-scientific-software-in-life-science-rd-1795-201708/
 - https://methodbrain.com/wp-content/uploads/2018/02/dsia-ux-design-practice-verticals1.pdf
+- https://datamanagement.hms.harvard.edu/about/what-research-data-management/biomedical-data-lifecycle
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
