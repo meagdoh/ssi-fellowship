@@ -6,7 +6,7 @@ https://github.com/meagdoh/ssi-fellowship/blob/main/talks/TRE-RSECon-lightning-t
 _will update with final notes when they are shared_
 
 ### BLUF
-There is a clear interest to break down silos in TRE development across UK. As TREs proliferate so do the user experiences. There's some interesting work to be done to streamline common workflows and interfaces for analysts, in particular analysts who use more than one TRE.
+There is a clear interest to break down silos in TRE development across UK (and a forthcoming manifesto/declaration/commitment to codify people's interest). As TREs proliferate so do the user experiences. There's some interesting work to be done to streamline common workflows and interfaces for analysts, in particular analysts who use more than one TRE.
 
 ### People and Places (non-exhaustive)
   - EPCC
