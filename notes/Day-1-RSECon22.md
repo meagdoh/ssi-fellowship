@@ -1,8 +1,8 @@
 _under construction_
 
-## Meag Notes - TRE Satelite Meeting
+## Meag Notes - RSECon22, Day 1
 ### Event Details
-https://github.com/meagdoh/ssi-fellowship/blob/main/talks/TRE-RSECon-lightning-talk.md </br>
+https://virtual.oxfordabstracts.com/#/event/public/3101/program </br>
 
 _will update with final notes when they are shared_
 
@@ -17,7 +17,7 @@ _will update with final notes when they are shared_
 
 
 ### Learnings
-* Ginestra Ferraro, UX <> Research Software Integration [(abstract)](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/42]) </br>
+- Ginestra Ferraro, UX <> Research Software Integration [(abstract)](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/42]) </br>
    - Started with an underlying belief that working together is better than working alone. 
    - Big problem: design is fuzzy and broad 
    - Other Problems: milestones are not synced, dependencies not defined, efficiency is lost, lack of inclusive planning, disportionate resources 
@@ -26,6 +26,12 @@ _will update with final notes when they are shared_
    - Advice to RSEs: improve communication with UX team, and vice versa.
    - _I don’t think full-stack RSEs exist. The complexity is quiet high. Being good at both is a myth, you need to compromise._ [when asked about RSEs who do UX work] 
 - Matt Machin, co-design [(abstract)](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/13)
+   - Collecting requirements from users is standard practice but co-design takes this one step further, actually multiple steps further… co-design is active involvement throughout the process.
+   - Bring in an independent facilitator to run co-design workshops to level the playing field
+   - They teach people co-design who have not participated before. Participants include research collaboratores, users (patients in this case), and RSEs
+   - Some funders are now expecting some level of co-design
+   - What if you don't act on the feedback people give you? Just keep the communication clear, transparent, and ongoing. 
+   - How do you relate co-design to Agile? There are different ways to bring co-design into agile depending on how frequently you can access your users. (sometimes patients attend Sprint Planning/Scrum Review meetings!)
 - Creativity Engine [(abstract)](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/49)
 - Dementia Research UK [(abstract)](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/78)
 - Equitable decision making in Smart Cities, Turing and Newcastle [(abstract)](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/43)
