@@ -40,6 +40,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://datamanagement.hms.harvard.edu/about/what-research-data-management/biomedical-data-lifecycle
 - https://dl.acm.org/doi/10.1145/3334480.3375231
 - https://openresearchsoftware.metajnl.com/article/10.5334/jors.284/
+- https://wssspe.researchcomputing.org.uk/wp-content/uploads/2015/09/Gunter-ucd.pdf
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
