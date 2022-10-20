@@ -44,6 +44,7 @@ A place to store any work related to my SSI Fellowship (https://www.software.ac.
 - https://d1wqtxts1xzle7.cloudfront.net/35767583/Qualitative_Research-2009-Denzin-139-60-with-cover-page-v2.pdf?Expires=1665527842&Signature=cjvNda3WvQzw2UAdd1rBCCAaHi46Xnnt~8LgInUQ42K14cqnTACFxedUtkrOFkjWXwHCOI1unDzSgz1fdRtNxG5MgousnaZs4HO9mPOgGVE9io7FjJhqJlKA-F8YsndVfgYchCkpht1UnC~Qg81fkctE17O4ftLqrBU5e3myJOs~OGPzs91El8rbL-cczJ~MqY4-u9jGlTOTOvj2T4QsrLcKDdOVisZ4leGyitoV7iFAb5C9UvhCOU6a9b3qhUrtkcKqEggLwKJsczNMQxZQMQ9HW80Ub~DSVrZvEUjFdig1hVaC0L60MvXqakHYQ6SuM~9OurEzJWV6fDw-FSFcoQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 - https://www.instituteofhealthequity.org/about-us/jobs-and-opportunities/ucl-marmot-prince-mahidol-fellowships
 - http://qdr.syr.edu/
+- https://vdl.sci.utah.edu/blog/2022/10/11/data_hunch/
 
 #### Human-Centered Design Process (HCDP)
 - https://ieeexplore.ieee.org/abstract/document/8680978
