@@ -14,6 +14,9 @@ _will update with final notes when they are shared_
 - https://www.twosigma.com/ (parnters with OSS groups to improve Jupyter)
 - https://woods.stanford.edu/research/funding-opportunities/realizing-environmental-innovation-program/optimizing-groundwater-recharge (uses theba)
 - http://eschultz.fr/ (humanities researcher insterested in STS adoption of notebooks)
+- https://www.epfl.ch/education/educational-initiatives/cede/ (teaching computational thinking)
+- https://github.com/jmshea/jupytercards (flashcards in jupyter)
+- https://jmshea.github.io/Foundations-of-Data-Science-with-Python/intro.html (interesting layout)
 
 
 ## Learnings
@@ -68,6 +71,33 @@ _will update with final notes when they are shared_
   - too many options for low code researchers. notebooks are too much. 
   - notebooks are an "intemediary object"
   - hm. maybe reproducibility is not the reason for jupyter notebooks
+- _Jupyter notebooks for education: Computational thinking in practice_
+  - Virtual demos > live coding > interactive notebwooks
+  - clear design goals. knows what it is "we don't do HPC and research"   
+  - **"easy authentication is the key for lowering the barrier to notebooks."**
+  - tidygram
+- _Tools for Interactive Education Experiences in Jupyter Notebooks and Jupyter Books_
+   - models of learning:
+     - the bicycle model of learning. keep trying until you get it.
+     - spaced repitition 
+  - lots of limitations in Jupyter notebook -- certain code, media types.
+  - Flashcard tools and quiz tools. Some have ability to group students who didn't get the answer and who did get the answer.
+  - Jupyter libraries: `pip install jupytercards`, `pip install jupyterquiz`
+  - string concactenation. If a="1" and b="2", a+b=12
+    - the + operator is concatenation
+-  OSSCAR: leveraging interactive Jupyter notebooks to enhance teaching in the scientific domain
+  - Audiences are TEACHERS, STUDENTS, RESEARCHERS, AND CONTRIBUTORS (WHO COULD BE TEACH, STUDENT AND/OR RESEARCHER)
+  - need: minimize waiting times. Allow students to get started quickly without much configuration.
+  - interactive visualizations
+- _The past, present and future of the Jupyter Notebook_
+  - Notebook 6, "Classic notebook" has been around for 8 years but it's a bit outdated. Jupyter Lab is a seperate prodcut that can do more things. 
+  - Curently thre is no migration path
+  - Anouncing *Jupyter 7*
+    - it's now compaitble with Jupyter Lab extensions
+    - !! real time collaboration is coming to Jupyter Notebook in V.7 !!
+      - `pip install jupyter-collaboration`
+    - "Debugger Controls" pause/play during execution (allows for checking code while it's mid run) ".. stop? could this help prevent spending 1,000s of dollars when you make an accidental run a function on the full dataset
+
 
 
 
@@ -85,5 +115,9 @@ _will update with final notes when they are shared_
 - Review workflow strategy.. in the example of Capytale they have a teacher review function.
 - [Workflow Description Language](https://terra.bio/resources/analysis-tools/)
 - Audit of domain publications and mine for technology used.
+- UX use cases for jupyter cards and quizzes? 
+- UX user journey use cases for interactive visualizations?
+
+
 
 
