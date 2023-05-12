@@ -1,4 +1,4 @@
-## Meag Notes - JupyterCon 2023, Day 1
+## Meag Notes - JupyterCon 2023
 ### Event Details
 https://cfp.jupytercon.com/2023/schedule/
 
@@ -97,6 +97,32 @@ _will update with final notes when they are shared_
     - !! real time collaboration is coming to Jupyter Notebook in V.7 !!
       - `pip install jupyter-collaboration`
     - "Debugger Controls" pause/play during execution (allows for checking code while it's mid run) ".. stop? could this help prevent spending 1,000s of dollars when you make an accidental run a function on the full dataset
+- _The UX of computational thinking_
+  - the UX of "computational notebooks"
+  - narration and code are two distinct experiences
+  - this env works for children/teachers because they learn by trial and errror and love storytelling
+  - implication: scientists don't like storytelling
+  - Jupyter has been hard to adopt because it's a new paradigm/way of working 
+  - challenge: Jupyter is an open framework. unlike e-commerce. Need to allow for exploration and creation.
+    - 10s of personas and 100s of workflows it can be difficult to keep up.
+    - https://glueviz.org/
+    - https://quansight.com/
+  - Q&A: thoughts about Jupyter Lab versus Notebook. How to help people onboard.
+  - Challenges: the users who are easy to access are the active contributors so they have a bias of being in the community. it's hard to get these folks outside the community.
+- _Community-first open source: An action plan!_
+  - Company-backed OSS
+  - Community-driven OSS
+  - Nebari (https://www.nebari.dev/)
+  - support, development, and meeting notes are the public communication channels
+- WAAAT! Accessibility Testing JupyterLab
+  - https://hackmd.io/@gabalafou/waaat
+  - Focus Indicator as a key WCAG requirement. helps people with low viison and those with attention limits.
+  - disabilityvisibility.com
+  - lots of parallels between security and accessiblity. 
+  - Axe-core is really the only checker. Lighthouse and Pa11y are built on Axe-core
+  - these checkers are very limiting
+  - Playwright is a good solution
+
 
 
 
@@ -117,6 +143,8 @@ _will update with final notes when they are shared_
 - Audit of domain publications and mine for technology used.
 - UX use cases for jupyter cards and quizzes? 
 - UX user journey use cases for interactive visualizations?
+- is there a jupyter workflow library?
+- "I was so happy to see your talk. i've been in this community for years and nobody has been really talking about design"
 
 
 
