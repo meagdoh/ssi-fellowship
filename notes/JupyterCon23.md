@@ -145,6 +145,7 @@ _will update with final notes when they are shared_
 - UX user journey use cases for interactive visualizations?
 - is there a jupyter workflow library?
 - "I was so happy to see your talk. i've been in this community for years and nobody has been really talking about design"
+- https://law.stanford.edu/2021/03/10/what-is-computational-law/ 
 
 
 
